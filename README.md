@@ -27,10 +27,12 @@ are enough items in the query to find matches above a certain threshold.
 
 ## References
 
-- Broder, Andrei Z. 1997. “On the Resemblance and Containment of Documents.” - In Compression and Complexity of Sequences 1997. Proceedings, 21–29. IEEE. http://ieeexplore.ieee.org/abstract/document/666900/.
+- Broder, Andrei Z. 1997. “On the Resemblance and Containment of Documents.” - In Compression and Complexity of Sequences 1997. Proceedings, 21–29. IEEE.  https://dx.doi.org/10.1109/SEQUEN.1997.666900
+- McIntyre, Alexa B. R., Rachid Ounit, Ebrahim Afshinnekoo, Robert J. Prill, Elizabeth Hénaff, Noah Alexander, Samuel S. Minot, et al. 2017. “Comprehensive Benchmarking and Ensemble Approaches for Metagenomic Classifiers.” Genome Biology 18: 182. https://dx.doi.org/10.1186/s13059-017-1299-7
 - Ondov, Brian D., Todd J. Treangen, Páll Melsted, Adam B. Mallonee, Nicholas H. Bergman, Sergey Koren, and Adam M. Phillippy. 2016. “Mash: Fast Genome and Metagenome Distance Estimation Using MinHash.” Genome Biology 17: 132. https://dx.doi.org/10.1186/s13059-016-0997-x
+- Solomon, Brad, and Carl Kingsford. 2016. “Fast Search of Thousands of Short-Read Sequencing Experiments.” Nature Biotechnology 34 (3): 300–302. https://dx.doi.org/10.1038/nbt.3442
 - Titus Brown, C., and Luiz Irber. 2016. “sourmash: A Library for MinHash Sketching of DNA.” The Journal of Open Source Software 1 (5). https://dx.doi.org/10.21105/joss.00027
-
+- Wood, Derrick E., and Steven L. Salzberg. 2014. “Kraken: Ultrafast Metagenomic Sequence Classification Using Exact Alignments.” Genome Biology 15 (3): R46. https://dx.doi.org/10.1186/gb-2014-15-3-r46
 
 [1]: poster/poster.pdf
 [2]: talk.pdf
